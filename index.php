@@ -9,5 +9,24 @@
 </head>
 <body>
 
+<table>
+    <h3>Skills</h3>
+    <tr>
+        <td>ios development</td>
+        <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+
+    <tr>
+        <td>Web Development</td>
+        <td>⭐⭐⭐⭐</td>
+    </tr>
+
+    <tr>
+        <td>Photography</td>
+        <td>⭐</td>
+    </tr>
+
+</table>
+
 </body>
 </html>
