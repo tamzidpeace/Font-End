@@ -6,19 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <style>
-        table, th, td {
-            border: 0px solid black;
-            border-collapse: collapse;
-        }
-
-        td {
-            padding: 20px;
-        }
-        body {
-            background-color: antiquewhite;
-        }
-    </style>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -27,7 +15,7 @@
         <td><img src="images/Angela%20yu.jpg" alt="Angela Yu" style="height: 200px; width: 200px"></td>
         <td>
             <h1>Angela Yu</h1>
-            <em>Founder and TO of The App Brewery.</em>
+            <em>Founder and CTO of The App Brewery.</em>
             <p>I am an iOS and Web Developer. I love coffee and brew my own beers.</p>
         </td>
     </tr>
@@ -66,6 +54,8 @@
 
 </table>
 
+<hr>
+
 <table>
     <h3>Skills</h3>
     <tr>
@@ -84,6 +74,9 @@
     </tr>
 
 </table>
+
+<img id="apple" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/green-apple_1f34f.png" alt="">
+
 
 </body>
 </html>
